@@ -1,0 +1,19 @@
+PODS:
+  - Digits (2.3.0):
+    - TwitterCore (= 2.3.0)
+  - Fabric (1.6.7)
+  - TwitterCore (2.3.0):
+    - Fabric
+
+DEPENDENCIES:
+  - Digits
+  - Fabric
+
+SPEC CHECKSUMS:
+  Digits: af82d24ec38035cc555b60f55cca5abc68a76bed
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  TwitterCore: 817eae3e291fa4125b47789e26a4f6f024115c1f
+
+PODFILE CHECKSUM: 0df98cbda7b0a68356e6347696d60ce596bffa14
+
+COCOAPODS: 1.0.1
