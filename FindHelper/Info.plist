@@ -34,5 +34,43 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>Fabric</key>
+    <dict>
+        <key>APIKey</key>
+        <string>ede99dc51cbc1847452a0b2ecab2da6210fa7c3b</string>
+        <key>Kits</key>
+        <array>
+            <dict>
+                <key>KitInfo</key>
+                <dict>
+                    <key>consumerKey</key>
+                    <string>LGtSkDtD6JaxNG91MPFUuyYML</string>
+                    <key>consumerSecret</key>
+                    <string>BPJQj5JXsJLp4UhY8eGBkMAGbHTrEHeYPUbmcljGfi8hY0IE2D</string>
+                </dict>
+                <key>KitName</key>
+                <string>Digits</string>
+            </dict>
+        </array>
+    </dict>
+    <key>FacebookDisplayName</key>
+    <string>Gamex</string>
+    <key>AccountKitFacebookAppEventsEnabled</key>
+    <integer>1</integer>
+    <key>FacebookAppID</key>
+    <string>465871913602533
+    </string>
+    <key>AccountKitClientToken</key>
+    <string>b3f19a50f37af1e79c5bc59c02d59d90</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>ak465871913602533</string>
+            </array>
+        </dict>
+    </array>
+
 </dict>
 </plist>
